@@ -79,14 +79,16 @@ Resolução:
 - Entrar nas configurações do Edito Classico e alterar a configuração da mesma forma como está abaixo:
 
 * Editor padrão para todos os usuários	
- Classic editor ( )
+  Classic editor ( )
 
- Block editor (x)
+  Block editor (x)
  
 * Permitir que os usuários alternem entre editores	
- Sim (x)
+  Sim (x)
+ 
+  Não ( )
+  
 
- Não ( )
  
  
 
