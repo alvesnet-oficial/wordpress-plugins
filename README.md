@@ -51,7 +51,8 @@
 10. Tradução (LOCO)
 - Tradução de idioma.
 
-11. Ultimate Addons for Gutenberg
+11. Gutenberg Blocks - Ultimate Addons for Gutenberg **
+- Ajuda com funções para customizar 
 
 12. WP Cerber Security, Antispam & Malware Scan
 - Segurança e proteção do Website
@@ -67,3 +68,25 @@
 
 16. WPS Hide Login
 - Oculta a pagina defaul do wp-admin por questão de segurança
+
+# Corrigir algumas configurações importante:
+
+** Alerta!:
+O Ultimate Addons for Gutenberg requer o Editor de blocos . Você pode alterar as definições do seu editor para Editor de blocos 
+. O plugin NÃO ESTÁ funcionando no momento.
+
+Resolução:
+- Entrar nas configurações do Edito Classico e alterar a configuração da mesma forma como está abaixo:
+
+* Editor padrão para todos os usuários	
+ Classic editor ( )
+
+ Block editor (x)
+ 
+* Permitir que os usuários alternem entre editores	
+ Sim (x)
+
+ Não ( )
+ 
+ 
+
