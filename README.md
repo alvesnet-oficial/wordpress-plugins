@@ -78,17 +78,14 @@ O Ultimate Addons for Gutenberg requer o Editor de blocos . Você pode alterar a
 Resolução:
 - Entrar nas configurações do Edito Classico e alterar a configuração da mesma forma como está abaixo:
 
-* Editor padrão para todos os usuários	
+1. Editor padrão para todos os usuários:
+
   Classic editor ( )
 
   Block editor (x)
  
-* Permitir que os usuários alternem entre editores	
+2. Permitir que os usuários alternem entre editore:
+
   Sim (x)
  
   Não ( )
-  
-
- 
- 
-
