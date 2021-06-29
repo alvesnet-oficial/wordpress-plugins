@@ -18,6 +18,10 @@
 14. WP Super Cache
 15. WPForms Lite
 16. WPS Hide Login
+17. Woocommerce
+18. Brazilian Market on WooCommerce (Por Claudio Sanches)
+19. PagSeguro for WooCommerce (Por Claudio Sanches)
+20. SumUp Payment Gateway For WooCommerce (Por SumUp)
 
 # Prós
 
@@ -69,6 +73,10 @@
 16. WPS Hide Login
 - Oculta a pagina defaul do wp-admin por questão de segurança
 
+17. Woocommerce
+
+18. Brazilian Market on WooCommerce
+
 # Corrigir algumas configurações importante:
 
 ** Alerta!:
@@ -87,5 +95,12 @@ Resolução:
 2. Permitir que os usuários alternem entre editore:
 
   Sim (x)
+  
+# Starter Templates
+
+No painel do WordPress clique em 'Aparencia / Starter Templates', escolha a opção Gutenberg.
+
+
  
   Não ( )
+  
