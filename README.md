@@ -122,8 +122,8 @@ No painel do WordPress clique em 'Aparencia / Starter Templates', escolha a opç
 
 4. Avaliações:
 
-  Ativar avaliações	Ativar avaliações Ativar avaliações de produto (x)
-  Exibir "comprador verificado" nas avaliações de clientes (x)
+  Ativar avaliações	Ativar avaliações Ativar avaliações de produto (x)  
+  Exibir "comprador verificado" nas avaliações de clientes (x)  
   Avaliações podem ser feitas apenas com "compradores verificados" (x)
   
 5. Avaliações de produto	Avaliações de produto Ativar classificação com estrelas em avaliações
