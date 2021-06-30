@@ -132,5 +132,13 @@ No painel do WordPress clique em 'Aparencia / Starter Templates', escolha a opç
   
   Classificação com estrela deve ser obrigatório, não opcional (x) 
 
+7. Inventário
+  
+  Gerenciar estoque Ativar gestão de estoque
+  Manter estoque (minutos): 60
+  
+  Observação: Se for trabalhar tambem com pagamentos por boletos 60 minutos pode ser muito pouco, é importante verificar com a empresa que vai gerenciar o Gateway de Pagamento por quanto tempo voce pode deixar caso o cliente não paga!. Se o cliente não pagar o boleto precisar ficar 1 ate 2 dias para verificar com cliente se ele vai pagar o produto ou não. Se for cartão de credito 60 minuto está otimo.
+  
+  Manter estoque (para pedidos não pagos) por x minutos. Quando esse limite é atingido, o pedido pendente será cancelado. Deixe em branco para desabilitar.
 
 
