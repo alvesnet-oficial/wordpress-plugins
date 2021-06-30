@@ -110,5 +110,9 @@ Comportamento da ação de adicionar produto ao carrinho:
   Redirecionar ao carrinho após uma adição bem-sucedida (x)
 
   Ativar botão para comprar utilizando AJAX nas páginas de arquivo (x)
+  
+Imagem substituta
+  (id) insira o 'id' de uma imagen personalizada com sua logo-marca se assim desejar.
+
 
 
