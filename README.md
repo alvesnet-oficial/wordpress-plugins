@@ -96,6 +96,8 @@ Sugestões: Nos vamos utilizar 1200x400 tamanho medio entre os grandes players. 
 
 * CDN (Rede de Servidores para Distribuição de Conteudo Statico). O Conteudo vem do servidor mais proximo de voce. Hoje é possivel ter CND em alguns provedores de hospedagem.
 
+https://br.freepik.com/ : Logo e Banner personalizando de acordo com sua necessidade.
+
 # Corrigir algumas configurações importante:
 
 ** Alerta!:
