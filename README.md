@@ -202,7 +202,7 @@ Caminho do arquivo de banco de dados: Ex: /home/'dominio'/public_html/'site'/wp-
 
 *O local em que o banco de dados do MaxMind deve ser armazenado. Por padrão, a integração salvará automaticamente o banco de dados aqui.
 
-Tabela do histórico de rastreamento:
+Tabela do histórico de rastreamento: (Contrato com os Correios)
 
 *Exibe uma tabela com informações da entrega na página Minha conta > Ver pedido. Nome de usuário e senha são obrigatórios para o funcionamento e podem ser obtidos com a área comercial dos Correios.
 
@@ -215,7 +215,30 @@ Habilitar/Desabilitar
 
 Log de depuração:
 
-  Ativar log para histórico de rastreamento (x)
+  Ativar log para histórico de rastreamento ( )
 *Registra os eventos do(a) Tabela do histórico de rastreamento, como requisições no WebService. Ver logs.
 
-Salvar alterações
+Autopreenchimento de endereços:
+
+Exibe uma tabela com informações da entrega na página Minha conta > Ver pedido.
+
+Habilitar/Desabilitar
+  
+  Ativar autopreenchimento de endereços (x)
+  
+Validade dos CEPs: '12 meses'
+
+*Define por quanto tempo um CEP ficará salvo no banco de dados antes de uma nova consulta.
+
+Forçar autopreenchimento:
+
+  Ativar opção de forçar o autopreenchimento (x)
+*Quanto ativado irá autopreencher todos os endereços depois que o usuário terminar de digitar o CEP, até mesmo quando o endereço já foi preenchido antes.
+
+Limpar banco de dados: 'Limpar banco de dados'
+Deletar todos os CEPs salvos do banco de dados, utilize esta opção caso você tenha problemas com CEPs desatualizados.
+
+Log de depuração:
+
+Ativar log para o autopreenchimento de endereços (x)
+*Registra os eventos do(a) Autopreenchimento de endereços, como requisições no WebService. Ver logs.
