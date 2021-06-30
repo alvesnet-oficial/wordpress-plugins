@@ -178,14 +178,17 @@ Criação de conta:
  Solicitações de remoção de contas:
   
    Remover dados pessoais dos pedidos sob demanda ( )
+
 *Quando lidando com uma solicitação de remoção de conta, devem ser mantidos ou removidos os dados pessoais dentro de pedidos? 
 
   Remover o acesso aos downloads sob demanda ( )
+
 *Quando lidando com uma solicitação de remoção de conta, os acessos aos arquivos baixáveis devem ser revogados e os registros de downloads apagados?
 
 Remoção de dados pessoais:
   
   Permitir que os dados pessoais sejam removidos dos pedidos em massa ( )
+
 *Adiciona uma opção à listagem de pedidos para remover dados pessoais em massa. Observe que a remoção de dados pessoais não pode ser revertida.
 
 # Integração:
