@@ -84,6 +84,8 @@
 
 21. Gutentor – Gutenberg Blocks – Page Builder for Gutenberg Editor
 
+* Criação de Blocos de Slides
+
 # Corrigir algumas configurações importante:
 
 ** Alerta!:
