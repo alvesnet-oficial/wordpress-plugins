@@ -196,15 +196,15 @@ Uma integração para a utilização do MaxMind para realizar pesquisas de local
 
 Chave de licença do MaxMind: ???
 
-*A chave que será usada ao lidar com os serviços de geolocalização do MaxMind. Você pode ler como gerar um na documentação da integração com a geolocalização do MaxMind.
+  *A chave que será usada ao lidar com os serviços de geolocalização do MaxMind. Você pode ler como gerar um na documentação da integração com a geolocalização do MaxMind.
 
 Caminho do arquivo de banco de dados: Ex: /home/'dominio'/public_html/'site'/wp-content/uploads/woocommerce_uploads/SOIwRfuKPP2ILQJQTbVK66KwUuRpmSLd-GeoLite2-Country.mmdb
 
-*O local em que o banco de dados do MaxMind deve ser armazenado. Por padrão, a integração salvará automaticamente o banco de dados aqui.
+  *O local em que o banco de dados do MaxMind deve ser armazenado. Por padrão, a integração salvará automaticamente o banco de dados aqui.
 
 Tabela do histórico de rastreamento: (Contrato com os Correios)
 
-*Exibe uma tabela com informações da entrega na página Minha conta > Ver pedido. Nome de usuário e senha são obrigatórios para o funcionamento e podem ser obtidos com a área comercial dos Correios.
+  *Exibe uma tabela com informações da entrega na página Minha conta > Ver pedido. Nome de usuário e senha são obrigatórios para o funcionamento e podem ser obtidos com a área comercial dos Correios.
 
 Habilitar/Desabilitar 
   Ativar a tabela de histórico de rastreamento (x)
