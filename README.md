@@ -23,7 +23,7 @@
 19. PagSeguro for WooCommerce (Por Claudio Sanches)
 20. SumUp Payment Gateway For WooCommerce (Por SumUp)
 
-# Prós
+# Plugins
 
 1. Astra Widgets
 
