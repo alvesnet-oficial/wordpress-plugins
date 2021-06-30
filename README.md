@@ -138,7 +138,20 @@ No painel do WordPress clique em 'Aparencia / Starter Templates', escolha a opç
   Manter estoque (minutos): 60
   
   Observação: Se for trabalhar tambem com pagamentos por boletos 60 minutos pode ser muito pouco, é importante verificar com a empresa que vai gerenciar o Gateway de Pagamento por quanto tempo voce pode deixar caso o cliente não paga!. Se o cliente não pagar o boleto precisar ficar 1 ate 2 dias para verificar com cliente se ele vai pagar o produto ou não. Se for cartão de credito 60 minuto está otimo.
+
+  *Manter estoque (para pedidos não pagos) por x minutos. Quando esse limite é atingido, o pedido pendente será cancelado. Deixe em branco para desabilitar.
+
+  Notificações:
+  Ativar notificações de baixo estoque (x)
+  Ativar notificações de item em falta no estoque (x)
   
-  Manter estoque (para pedidos não pagos) por x minutos. Quando esse limite é atingido, o pedido pendente será cancelado. Deixe em branco para desabilitar.
+  Destinatários da notificação: cliente@dominio.x.x  (É o email do responsavel pelo estoque designado pelo cliente)
+  
+  Limiar de estoque baixo: 2  (Se voce vende muito pouco produto 2 pode ser o suficiente, se voce vender muito pode ser que tenha que aumentar para 10 ou mais...)
+  Limiar de fora de estoque: 0 (Leve em consideração que se voce trabalhar com boletos talves tenha clientes que esteja na eminencia de pagar ou não o boleto, e voce precise deixar algumas peças)
+  
+  
+
+ 
 
 
