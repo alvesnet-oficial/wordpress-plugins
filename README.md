@@ -94,6 +94,8 @@ e o menor banner os tamanhos das imagens
 
 Sugestões: Nos vamos utilizar 1200x400 tamanho medio entre os grandes players. Os banner não precisam ser na maior resolução possível, os jpeg salve em 72% e 82% para um melhor otimização.
 
+* CDN (Rede de Servidores para Distribuição de Conteudo Statico). O Conteudo vem do servidor mais proximo de voce. Hoje é possivel ter CND em alguns provedores de hospedagem.
+
 # Corrigir algumas configurações importante:
 
 ** Alerta!:
