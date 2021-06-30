@@ -195,9 +195,11 @@ MaxMind Geolocation
 Uma integração para a utilização do MaxMind para realizar pesquisas de localização geográfica. Observe que essa integração fará apenas pesquisas de países.
 
 Chave de licença do MaxMind: ???
+
 *A chave que será usada ao lidar com os serviços de geolocalização do MaxMind. Você pode ler como gerar um na documentação da integração com a geolocalização do MaxMind.
 
 Caminho do arquivo de banco de dados: Ex: /home/'dominio'/public_html/'site'/wp-content/uploads/woocommerce_uploads/SOIwRfuKPP2ILQJQTbVK66KwUuRpmSLd-GeoLite2-Country.mmdb
+
 *O local em que o banco de dados do MaxMind deve ser armazenado. Por padrão, a integração salvará automaticamente o banco de dados aqui.
 
 Tabela do histórico de rastreamento:
