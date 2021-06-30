@@ -96,11 +96,19 @@ Resolução:
 
   Sim (x)
   
-# Starter Templates
-
-No painel do WordPress clique em 'Aparencia / Starter Templates', escolha a opção Gutenberg.
-
-
- 
   Não ( )
   
+# Starter Templates
+
+No painel do WordPress clique em 'Aparencia / Starter Templates', escolha a opção Gutenberg. 
+
+
+# WooCommerce / Produtos:
+
+Comportamento da ação de adicionar produto ao carrinho:
+
+  Redirecionar ao carrinho após uma adição bem-sucedida (x)
+
+  Ativar botão para comprar utilizando AJAX nas páginas de arquivo (x)
+
+
