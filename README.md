@@ -173,11 +173,47 @@ Criação de conta:
   
   Ao criar uma conta, gere automaticamente um nome de usuário da conta para o cliente com base em seu nome, sobrenome ou e-mail (x)
   
-  Quando uma conta for criada, gerar automaticamente uma senha para a conta (x)
-
-  
-  
-
+  Quando uma conta for criada, gerar automaticamente uma senha para a conta ( )
  
+ Solicitações de remoção de contas:
+  
+   Remover dados pessoais dos pedidos sob demanda ( )
+*Quando lidando com uma solicitação de remoção de conta, devem ser mantidos ou removidos os dados pessoais dentro de pedidos? 
 
+  Remover o acesso aos downloads sob demanda ( )
+*Quando lidando com uma solicitação de remoção de conta, os acessos aos arquivos baixáveis devem ser revogados e os registros de downloads apagados?
 
+Remoção de dados pessoais:
+  
+  Permitir que os dados pessoais sejam removidos dos pedidos em massa ( )
+*Adiciona uma opção à listagem de pedidos para remover dados pessoais em massa. Observe que a remoção de dados pessoais não pode ser revertida.
+
+# Integração:
+
+MaxMind Geolocation
+
+Uma integração para a utilização do MaxMind para realizar pesquisas de localização geográfica. Observe que essa integração fará apenas pesquisas de países.
+
+Chave de licença do MaxMind: ???
+*A chave que será usada ao lidar com os serviços de geolocalização do MaxMind. Você pode ler como gerar um na documentação da integração com a geolocalização do MaxMind.
+
+Caminho do arquivo de banco de dados: Ex: /home/'dominio'/public_html/'site'/wp-content/uploads/woocommerce_uploads/SOIwRfuKPP2ILQJQTbVK66KwUuRpmSLd-GeoLite2-Country.mmdb
+*O local em que o banco de dados do MaxMind deve ser armazenado. Por padrão, a integração salvará automaticamente o banco de dados aqui.
+
+Tabela do histórico de rastreamento:
+
+*Exibe uma tabela com informações da entrega na página Minha conta > Ver pedido. Nome de usuário e senha são obrigatórios para o funcionamento e podem ser obtidos com a área comercial dos Correios.
+
+Habilitar/Desabilitar 
+  Ativar a tabela de histórico de rastreamento (x)
+  
+  Código administrativo: ???
+  
+  Senha administrativa: ???
+
+Log de depuração:
+
+  Ativar log para histórico de rastreamento (x)
+*Registra os eventos do(a) Tabela do histórico de rastreamento, como requisições no WebService. Ver logs.
+
+Salvar alterações
