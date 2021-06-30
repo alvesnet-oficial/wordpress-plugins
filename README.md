@@ -86,6 +86,12 @@
 
 * Criação de Blocos de Slides
 
+Os 5 maiores players utilizam o maior banner do topo da pagina.
+'width':1500 e 'height':600 
+
+e o menor banner os tamanhos das imagens
+'width':970 e 'height':250
+
 # Corrigir algumas configurações importante:
 
 ** Alerta!:
