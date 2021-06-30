@@ -151,6 +151,13 @@ No painel do WordPress clique em 'Aparencia / Starter Templates', escolha a opç
   
   Limiar de fora de estoque: 0 (Leve em consideração que se voce trabalhar com boletos talves tenha clientes que esteja na eminencia de pagar ou não o boleto, e voce precise deixar algumas peças)
   
+  Visibilidade dos produtos fora de estoque:
+  
+  Ocultar os produtos fora de estoque do catálogo ( )  # Se voce ativar essa função aquele produto 'some' , se é um produto que eu posso ficar sem estoque mas eu não quero que eles some continue aparecendo la com um botão de 'avise-me quando chegar!' por que eu vou comprar mais então você não oculta!. Quando você oculta as vezes voce pode perder indexação pelo Google daquela pagina do produto. Tome que cuidado se é um produto que vai acabar e não vou vender mais então oculta. Mas se é um produto que eu vendo depois compro mais e continua ele pode ficar mostrando que está fora de estoque mais tem o o botão 'avise-me quando chegar!'. Importante decidir isso com o cliente.
+  
+  Formato de exibição do estoque: Sempre mostra a quantidade restante em estoque, por exemplo "12 em estoque"
+
+  
   
 
  
