@@ -249,3 +249,7 @@ Log de depuração:
 Ativar log para o autopreenchimento de endereços (x)
 
 *Registra os eventos do(a) Autopreenchimento de endereços, como requisições no WebService. Ver logs.
+
+# Entrega
+
+
