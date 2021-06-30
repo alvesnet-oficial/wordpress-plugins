@@ -148,6 +148,7 @@ No painel do WordPress clique em 'Aparencia / Starter Templates', escolha a opç
   Destinatários da notificação: cliente@dominio.x.x  (É o email do responsavel pelo estoque designado pelo cliente)
   
   Limiar de estoque baixo: 2  (Se voce vende muito pouco produto 2 pode ser o suficiente, se voce vender muito pode ser que tenha que aumentar para 10 ou mais...)
+  
   Limiar de fora de estoque: 0 (Leve em consideração que se voce trabalhar com boletos talves tenha clientes que esteja na eminencia de pagar ou não o boleto, e voce precise deixar algumas peças)
   
   
