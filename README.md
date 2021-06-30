@@ -156,6 +156,24 @@ No painel do WordPress clique em 'Aparencia / Starter Templates', escolha a opç
   Ocultar os produtos fora de estoque do catálogo ( )  # Se voce ativar essa função aquele produto 'some' , se é um produto que eu posso ficar sem estoque mas eu não quero que eles some continue aparecendo la com um botão de 'avise-me quando chegar!' por que eu vou comprar mais então você não oculta!. Quando você oculta as vezes voce pode perder indexação pelo Google daquela pagina do produto. Tome cuidado se é um produto que vai acabar e não vou vender mais então oculta. Mas se é um produto que vende depois compro mais e continua ele pode ficar mostrando que está fora de estoque mais tem o o botão 'avise-me quando chegar!'. Importante decidir isso com o cliente.
   
   Formato de exibição do estoque: Sempre mostra a quantidade restante em estoque, por exemplo "12 em estoque"
+  
+# Contas e Privacidade
+
+Finalização de compra como visitante:
+
+  Permitir que seus clientes efetuem pedidos sem uma conta ( )
+  
+  Permitir que seus clientes façam login em uma conta existente durante a finalização da compra (x)
+  
+Criação de conta:
+
+  Criação de conta Permitir que seus clientes criem uma conta durante a finalização da compra (x)
+  
+  Permitir que seus clientes criem uma conta na página "Minha Conta" (x)
+  
+  Ao criar uma conta, gere automaticamente um nome de usuário da conta para o cliente com base em seu nome, sobrenome ou e-mail (x)
+  
+  Quando uma conta for criada, gerar automaticamente uma senha para a conta (x)
 
   
   
