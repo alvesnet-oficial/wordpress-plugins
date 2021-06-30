@@ -92,6 +92,8 @@ Os 5 maiores players utilizam o maior banner do topo da pagina.
 e o menor banner os tamanhos das imagens
 'width':970 e 'height':250
 
+Sugestões: Nos vamos utilizar 1200x400 tamanho medio entre os grandes players. Os banner não precisam ser na maior resolução possível, os jpeg salve em 72% e 82% para um melhor otimização.
+
 # Corrigir algumas configurações importante:
 
 ** Alerta!:
