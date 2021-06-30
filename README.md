@@ -114,6 +114,21 @@ No painel do WordPress clique em 'Aparencia / Starter Templates', escolha a opç
 2. Imagem substituta:
 
   (id) insira o 'id' de uma imagen personalizada com sua logo-marca se assim desejar.
+  
+3. Medidas:
+
+  Unidade de peso (g = gramas)
+  Unidades de medida (cm = centimentros)
+
+4. Avaliações:
+
+  Ativar avaliações	Ativar avaliações Ativar avaliações de produto (x)
+  Exibir "comprador verificado" nas avaliações de clientes (x)
+  Avaliações podem ser feitas apenas com "compradores verificados" (x)
+  
+5. Avaliações de produto	Avaliações de produto Ativar classificação com estrelas em avaliações
+
+  Classificação com estrela deve ser obrigatório, não opcional (x) 
 
 
 
