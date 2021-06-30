@@ -129,6 +129,7 @@ No painel do WordPress clique em 'Aparencia / Starter Templates', escolha a opç
 5. Avaliações de produto:
   
   Ativar classificação com estrelas em avaliações (x)
+  
   Classificação com estrela deve ser obrigatório, não opcional (x) 
 
 
