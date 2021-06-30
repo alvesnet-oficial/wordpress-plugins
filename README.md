@@ -105,13 +105,14 @@ No painel do WordPress clique em 'Aparencia / Starter Templates', escolha a opç
 
 # WooCommerce / Produtos:
 
-Comportamento da ação de adicionar produto ao carrinho:
+1. Comportamento da ação de adicionar produto ao carrinho:
 
   Redirecionar ao carrinho após uma adição bem-sucedida (x)
 
   Ativar botão para comprar utilizando AJAX nas páginas de arquivo (x)
   
-Imagem substituta
+2. Imagem substituta:
+
   (id) insira o 'id' de uma imagen personalizada com sua logo-marca se assim desejar.
 
 
