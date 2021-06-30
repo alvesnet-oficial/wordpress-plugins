@@ -22,6 +22,7 @@
 18. Brazilian Market on WooCommerce (Por Claudio Sanches)
 19. PagSeguro for WooCommerce (Por Claudio Sanches)
 20. SumUp Payment Gateway For WooCommerce (Por SumUp)
+21. Gutentor – Gutenberg Blocks – Page Builder for Gutenberg Editor
 
 # Plugins
 
@@ -76,6 +77,12 @@
 17. Woocommerce
 
 18. Brazilian Market on WooCommerce
+
+19....
+
+20...
+
+21. Gutentor – Gutenberg Blocks – Page Builder for Gutenberg Editor
 
 # Corrigir algumas configurações importante:
 
