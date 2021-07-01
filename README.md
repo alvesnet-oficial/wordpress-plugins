@@ -390,15 +390,3 @@ Validar CPF:	 Verifica se o CPF é válido.
 
 Validar CNPJ:	 Verifica se o CNPJ é válido.
 
-
-
-
-
-
-
-
-
-
-
-
-
