@@ -289,10 +289,10 @@ Ativar log para o autopreenchimento de endereços (x)
 Dica: 
 
 Validar Faixa de CEP por região
+
 https://www.ramirolobo.com/ceps-por-bairro-woocommerce
 
 http://cep.la/
-
 
 Inserir da seguinte forma no Woocommerce sem os caracteres:
 
