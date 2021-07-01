@@ -278,6 +278,8 @@ Dica:
 Validar Faixa de CEP por região
 Inserir da seguinte forma no Woocommerce sem os caracteres:
 
+Ex: Rio de Janeiro
+
 20000000...28999999
 
 http://cep.la/
