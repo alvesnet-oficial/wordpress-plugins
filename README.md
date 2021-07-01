@@ -354,34 +354,51 @@ Exemplo pratico:
   
 Exemplos
 
-10 + ( 2 * [qty] ) – Um custo de envio básico de R$ 10 mais R$ 2 para cada item no carrinho.
-20 + [fee percent="10" min_fee="4"] – Um custo de remessa base de R$ 20 mais 10% do total do pedido, que é de pelo menos R$ 4.
+10 + ( 2 * [qty] ) 
 
-# Opções de Entrega
+– Um custo de envio básico de R$ 10 mais R$ 2 para cada item no carrinho.
 
-Cálculos:
+20 + [fee percent="10" min_fee="4"] 
 
-Ativar a calculadora de frete na página de carrinho (x)
+– Um custo de remessa base de R$ 20 mais 10% do total do pedido, que é de pelo menos R$ 4.
 
-Esconder os custos de envio até que o endereço seja digitado 
+# Campos do Checkout
 
-Destino da entrega:
+Exibir Tipo de Pessoa:	
 
- Por padrão para o endereço de entrega do cliente 
- 
- * Força o cliente digita dois endereço para entrega.
- 
- Por padrão para o endereço de faturamento do cliente (x)
- 
- * Tenho opção de cadastrar um endereço de faturamento.
- 
- Forçar entrega para o endereço de faturamento do cliente
- 
- * Não da opção de alterar.
- 
-Modo de depuração:
+Pessoa Física e Pessoa Jurídica: Pessoa Física habilita o campo CPF e Pessoa Jurídica habilita o campo CNPJ.
 
-  Ativar modo de depuração
-  
-  Ative o modo de depuração de entrega para mostrar as áreas de entrega e ignorar o cache dos custos de entrega.
+Tipo de Pessoa é obrigatório apenas no Brasil?	 Caso esteja marcado os campos de Pessoa Física e Pessoa Jurídica serão obrigatórios apenas no Brasil.
+
+Exibir RG:	 Caso esteja marcado exibe o campo de RG nas informações de cobrança.
+
+Exibir Inscrição Estadual:	 Caso esteja marcado exibe o campo de Inscrição Estadual nas informações de cobrança.
+
+Exibir Data de Nascimento e Sexo:	 Caso esteja marcado exibe os campos de Data de nascimento e Sexo nas informações de cobrança.
+
+Exibir Celular:	 Caso esteja marcado exibe o campo de Celular nas informações de cobrança.
+
+Opções de jQuery:
+
+Habilitar Sugestões de E-mail:	 Caso esteja marcado exibe dicas quando o usuário digita o e-mail de forma errada.
+
+Habilitar Máscara de Campos:	 Caso esteja marcado adiciona máscaras de preenchimento para os campos de CPF, CNPJ, Data de Nascimento, Telefone e Celular.
+
+Validação:
+
+Validar CPF:	 Verifica se o CPF é válido.
+
+Validar CNPJ:	 Verifica se o CNPJ é válido.
+
+
+
+
+
+
+
+
+
+
+
+
 
