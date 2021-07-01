@@ -353,6 +353,7 @@ Exemplo pratico:
   max_fee – Um montante máximo. Útil ao usar porcentagens.
   
 Exemplos
+
 10 + ( 2 * [qty] ) – Um custo de envio básico de R$ 10 mais R$ 2 para cada item no carrinho.
 20 + [fee percent="10" min_fee="4"] – Um custo de remessa base de R$ 20 mais 10% do total do pedido, que é de pelo menos R$ 4.
 
