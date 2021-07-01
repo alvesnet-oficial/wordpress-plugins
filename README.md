@@ -327,5 +327,44 @@ Ex:
     <img src="Exemplo-Expressa.png" width="700" height="300">
 </p>
 
+# Classes de Entregas
+
+As vezes temos varios produtos pequenos que é possivel transportar em uma moto. 
+
+Mas as vezes temos produtos que precisa ser entregue de carros maiores. 
+
+Precisamos informar isso ao cliente ao cliente que esse produto só é possivel entregar até determinadas regiões. 
+
+Uma determinada quantidade somente em uma determinada região.
+
+Determinados produtos entrego em determinada região. Mas produtos maiores ex: Geladeira vou precisar contratar um transportadora.
+
+Digamos que tenho um produto muito fragil que por fora ele é de madeira e essa embalagem me custa muito mais caro, assim existe situações que precisamos criar regras especificas para determinados produtos. 
+
+Exemplo pratico:
+
+[qty] – Numeros de produtos no carrinho.
+[fee] – Uma taxa adicional. Esta taxa tem dois argumentos opcionais.
+  
+  percent  - uma porcentagem com base no custo total do pedido.
+  
+  min_fee – Uma quantia mínima. Útil ao usar porcentagens.
+  
+  max_fee – Um montante máximo. Útil ao usar porcentagens.
+  
+Exemplos
+10 + ( 2 * [qty] ) – Um custo de envio básico de R$ 10 mais R$ 2 para cada item no carrinho.
+20 + [fee percent="10" min_fee="4"] – Um custo de remessa base de R$ 20 mais 10% do total do pedido, que é de pelo menos R$ 4.
+
+
+
+
+
+
+
+
+
+
+
 
 
