@@ -23,6 +23,7 @@
 19. PagSeguro for WooCommerce (Por Claudio Sanches)
 20. SumUp Payment Gateway For WooCommerce (Por SumUp)
 21. Gutentor – Gutenberg Blocks – Page Builder for Gutenberg Editor
+22. Variation Swatches for WooCommerce (Por Emran Ahmed)
 
 # Plugins
 
@@ -389,4 +390,16 @@ Validação:
 Validar CPF:	 Verifica se o CPF é válido.
 
 Validar CNPJ:	 Verifica se o CNPJ é válido.
+
+# Variações Avancadas no Woocommerce
+
+Camisa tamanho, cor, fabricante, estampas diferences. 
+
+O Woocommerce é limitado com variações apenas preto, vermelho e azul.
+
+
+
+
+
+
 
