@@ -293,8 +293,11 @@ A regra de negocio na configuração dos cep sempre comece configurando do mais 
 Segue está ordem:
 
 1º. Bairro
+
 2º. Rio de Janeiro
+
 3º. Capital
+
 4º. Estado
 
 Ex: 
@@ -304,6 +307,25 @@ Ex:
 
 2. Opções de Entrega:
 
+Ordem das Entregas
+
 <p align="center">
     <img src="Exemplos Ordem de Entrega.png" width="1200" height="400">
 </p>
+
+Metodos de Entrega
+
+<p align="center">
+    <img src="MetodosDeEntrega.png" width="1200" height="400">
+</p>
+
+Configuracao do Metodo
+
+Ex:
+
+<p align="center">
+    <img src="Exemplo-Expressa.png" width="1200" height="400">
+</p>
+
+
+
