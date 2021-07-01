@@ -276,6 +276,9 @@ Ativar log para o autopreenchimento de endereços (x)
 Dica: 
 
 Validar Faixa de CEP por região
+Inserir da seguinte forma no Woocommerce sem os caracteres:
+
+20000000...28999999
 
 http://cep.la/
 
