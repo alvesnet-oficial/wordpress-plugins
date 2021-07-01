@@ -273,5 +273,12 @@ Ativar log para o autopreenchimento de endereços (x)
 
 # Entrega
 
+Dica: 
+
+Validar Faixa de CEP por região
+
+http://cep.la/
+
+
 
 
