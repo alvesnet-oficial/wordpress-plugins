@@ -305,5 +305,5 @@ Ex:
 2. Opções de Entrega:
 
 <p align="center">
-    <img src="Exemplos Ordem de Entrega.png" width="1200" height="500">
+    <img src="Exemplos Ordem de Entrega.png" width="1200" height="400">
 </p>
