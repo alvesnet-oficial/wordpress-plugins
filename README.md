@@ -289,8 +289,11 @@ A regra de negocio na configuração dos cep sempre comece configurando do mais 
 Segue está ordem:
 
 1º. Bairro
+
 2º. Rio de Janeiro
+
 3º. Capital
+
 4º. Estado
 
 Ex: 
