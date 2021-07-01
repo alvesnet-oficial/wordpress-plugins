@@ -303,3 +303,7 @@ Ex:
 2. Brasil
 
 2. Opções de Entrega:
+
+<p align="center">
+    <img src="Exemplos Ordem de Entrega.png" width="324" height="324">
+</p>
