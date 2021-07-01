@@ -357,15 +357,31 @@ Exemplos
 10 + ( 2 * [qty] ) – Um custo de envio básico de R$ 10 mais R$ 2 para cada item no carrinho.
 20 + [fee percent="10" min_fee="4"] – Um custo de remessa base de R$ 20 mais 10% do total do pedido, que é de pelo menos R$ 4.
 
+# Opções de Entrega
 
+Cálculos:
 
+Ativar a calculadora de frete na página de carrinho (x)
 
+Esconder os custos de envio até que o endereço seja digitado 
 
+Destino da entrega:
 
+ Por padrão para o endereço de entrega do cliente 
+ 
+ * Força o cliente digita dois endereço para entrega.
+ 
+ Por padrão para o endereço de faturamento do cliente (x)
+ 
+ * Tenho opção de cadastrar um endereço de faturamento.
+ 
+ Forçar entrega para o endereço de faturamento do cliente
+ 
+ * Não da opção de alterar.
+ 
+Modo de depuração:
 
-
-
-
-
-
+  Ativar modo de depuração
+  
+  Ative o modo de depuração de entrega para mostrar as áreas de entrega e ignorar o cache dos custos de entrega.
 
