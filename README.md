@@ -276,13 +276,28 @@ Ativar log para o autopreenchimento de endereços (x)
 Dica: 
 
 Validar Faixa de CEP por região
+http://cep.la/
+
 Inserir da seguinte forma no Woocommerce sem os caracteres:
 
 Ex: Rio de Janeiro
 
 20000000...28999999
 
-http://cep.la/
+A regra de negocio na configuração dos cep sempre comece configurando do mais especifico para o mais generico:
+
+Segue está ordem:
+
+1º. Bairro
+2º. Rio de Janeiro
+3º. Capital
+4º. Estado
+
+Ex: 
+
+1. Rio de Janeiro: 20000000...28999999
+2. Brasil
+
 
 
 
