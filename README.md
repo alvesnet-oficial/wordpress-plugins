@@ -324,7 +324,7 @@ Configuracao do Metodo
 Ex:
 
 <p align="center">
-    <img src="Exemplo-Expressa.png" width="700" height="100">
+    <img src="Exemplo-Expressa.png" width="700" height="300">
 </p>
 
 
