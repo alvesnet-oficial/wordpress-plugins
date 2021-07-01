@@ -273,10 +273,14 @@ Ativar log para o autopreenchimento de endereços (x)
 
 # Entrega
 
+1. Area de Entrega:
+
 Dica: 
 
 Validar Faixa de CEP por região
+https://www.ramirolobo.com/ceps-por-bairro-woocommerce
 http://cep.la/
+
 
 Inserir da seguinte forma no Woocommerce sem os caracteres:
 
@@ -289,11 +293,8 @@ A regra de negocio na configuração dos cep sempre comece configurando do mais 
 Segue está ordem:
 
 1º. Bairro
-
 2º. Rio de Janeiro
-
 3º. Capital
-
 4º. Estado
 
 Ex: 
@@ -301,7 +302,4 @@ Ex:
 1. Rio de Janeiro: 20000000...28999999
 2. Brasil
 
-
-
-
-
+2. Opções de Entrega:
