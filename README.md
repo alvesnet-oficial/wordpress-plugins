@@ -24,6 +24,8 @@
 20. SumUp Payment Gateway For WooCommerce (Por SumUp)
 21. Gutentor – Gutenberg Blocks – Page Builder for Gutenberg Editor
 22. Variation Swatches for WooCommerce (Por Emran Ahmed)
+23. Additional Variation Images Gallery for WooCommerce (Por Emran Ahmed)
+24. 
 
 # Plugins
 
@@ -98,6 +100,14 @@ Sugestões: Nos vamos utilizar 1200x400 tamanho medio entre os grandes players. 
 * CDN (Rede de Servidores para Distribuição de Conteudo Statico). O Conteudo vem do servidor mais proximo de voce. Hoje é possivel ter CND em alguns provedores de hospedagem.
 
 https://br.freepik.com/ : Logo e Banner personalizando de acordo com sua necessidade.
+
+22. Variation Swatches for WooCommerce (Por Emran Ahmed)
+
+* Na versão gratuita permite adicionar 1 variacao de cor.
+
+23. Additional Variation Images Gallery for WooCommerce (Por Emran Ahmed)
+
+* Na versão gratuita permite adicionar mais 3 variacao de cor.
 
 # Corrigir algumas configurações importante:
 
@@ -396,6 +406,8 @@ Validar CNPJ:	 Verifica se o CNPJ é válido.
 Camisa tamanho, cor, fabricante, estampas diferences. 
 
 O Woocommerce é limitado com variações apenas preto, vermelho e azul.
+
+
 
 
 
