@@ -11,7 +11,7 @@
 7. Rank Math SEO
 8. Realy Simple SSL (Algumas situações especificas)
 9. Starter Templates
-10. Tradução (LOCO)
+10. Loco Translate (Por Tim Whitlock)
 11. Ultimate Addons for Gutenberg
 12. WP Cerber Security, Antispam & Malware Scan
 13. WP Mail SMTP
