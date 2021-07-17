@@ -26,6 +26,7 @@
 22. Variation Swatches for WooCommerce (Por Emran Ahmed)
 23. Additional Variation Images Gallery for WooCommerce (Por Emran Ahmed)
 24. Join.chat ( Por Creame)
+25. Jetpack – WP Security, Backup, Speed, & Growth (Por Automattic)
 
 # Plugins
 
